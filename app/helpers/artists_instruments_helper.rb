@@ -1,0 +1,2 @@
+module ArtistsInstrumentsHelper
+end
